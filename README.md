@@ -9,7 +9,7 @@ About:
 This program is created by SureRouge502 automating the process of using your Phone over wired or wireless connection in
 A linux machine. This program Uses ADB (Android Debug Bridge) and Fastboot in order to work..
 Works on All types of linux (Mostly tested on Debian And Kali coz i have those two only right now)
-This is the MyPhone 3.<br/> <br/>
+This is the MyPhone 3.<br/> <br/><br/><br/><br/>
 
 
 
