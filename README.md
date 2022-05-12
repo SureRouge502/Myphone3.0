@@ -31,9 +31,9 @@ Features:
 Myphone section
 ---------------
 <br/>
-1. Connect Wired : Allows user to connect to their android device when connected via USB.<br/>
-2. Connect Wireless : Allows user to connect to their android device wirelessly via WIFI. TO use this just enter the IP address of the Device you want to<br/> connect to and click "Connect Wireless".<br/>
-3. Connect Audio : Lets you connect audio streaming service //Sndcpy// to your connected device so you can stream audio. Works for both Wired and Wireless<br/>
+1. Connect Wired : Allows user to connect to their android device when connected via USB.<br/><br/>
+2. Connect Wireless : Allows user to connect to their android device wirelessly via WIFI. TO use this just enter the IP address of the Device you want to connect to and click "Connect Wireless".<br/><br/>
+3. Connect Audio : Lets you connect audio streaming service //Sndcpy// to your connected device so you can stream audio. Works for both Wired and Wireless<br/><br/>
 <br/>
 **NOTE**: In order to stop the audio streaming , just tap "STOP" on audio forwarding notification on your android.
 <br/><br/>
