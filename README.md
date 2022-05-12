@@ -153,7 +153,7 @@ Credits:
 <br/>
 Creator: **SureRouge502** <br />
 Email (for bugs report as well): iyengara41@gmail.com <br />
-More of SureRouge502's work at: <br/>
+More of SureRouge502's work at: 
 [Github@SureRouge502]( https://github.com/SureRouge502)
 
 
