@@ -61,8 +61,8 @@ Media player section
 6. **Next media** : Switch to the next media to play.<br/><br/>
 
 7. **Set volume** : Use the scroller to select the desired volume and use the "Set volume" button to set your device volume to it.<br/><br/>
-
 <br/>
+
 **NOTE**: This doesn't control the Media streaming volume...
 <br/><br/>
 
