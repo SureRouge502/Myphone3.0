@@ -2,8 +2,6 @@
 Myphone3.0
 ----------
 
-
-
 About:
 ------
 This program is created by SureRouge502 automating the process of using your Phone over wired or wireless connection in<br/>
