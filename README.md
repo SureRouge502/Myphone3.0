@@ -134,7 +134,7 @@ Installation:
 <br/>
 ---->The installer will install all the pre-requisites and programs required to run this program efficiently. And also provide them with executable permissions
 on its own, so less work and easy installation!
-<br/>
+<br/><br/>
 ---->After the installation is complete and you've received a message saying "Installation complete", you can run the program for the folder it is in using :
 
     python3 GUI.py
