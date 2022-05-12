@@ -43,13 +43,13 @@ Myphone section
 Media player section
 --------------------
 <br/>
-1. **Play/Pause** : Play/Pause running media.<br/>
-2. **Stop** : Stop any running media.<br/>
-3. **Previous media** : Go back to the previous media that was playing.<br/>
-4. **Rewind (2s)** : Rewind playing media by 2 seconds.<br/>
-5. **Forwarwd (2s)** : Forward media playing by 2 seconds.<br/>
-6. **Next media** : Switch to the next media to play.<br/>
-7. **Set volume** : Use the scroller to select the desired volume and use the "Set volume" button to set your device volume to it.<br/>
+1. **Play/Pause** : Play/Pause running media.<br/><br/>
+2. **Stop** : Stop any running media.<br/><br/>
+3. **Previous media** : Go back to the previous media that was playing.<br/><br/>
+4. **Rewind (2s)** : Rewind playing media by 2 seconds.<br/><br/>
+5. **Forwarwd (2s)** : Forward media playing by 2 seconds.<br/><br/>
+6. **Next media** : Switch to the next media to play.<br/><br/>
+7. **Set volume** : Use the scroller to select the desired volume and use the "Set volume" button to set your device volume to it.<br/><br/>
 <br/>
 **NOTE**: This doesn't control the Media streaming volume...
 <br/><br/>
