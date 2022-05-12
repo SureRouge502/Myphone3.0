@@ -67,7 +67,9 @@ App Options section
 Device Options Section 
 ----------------------
 <br/>
-1.**Terminal** : Opens up a terminal window allowing to passthrough shell commands to your Android device <br/>
+
+1.**Terminal**: Opens up a terminal window allowing to passthrough shell commands to your Android device <br/>
+
 **NOTE**: If you see the terminal not opening up , the your device isnt authorized yet. To authorize ,just reconnect your device with your phone unlocked and Accecpt The prompt saying "Accpet RSA keys / fingerprints".
 <br/><br/>
 
