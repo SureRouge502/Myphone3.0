@@ -26,8 +26,6 @@ What's New?
 
 Features:
 ---------
-<br/><br/>
-
 
 Myphone section
 ---------------
