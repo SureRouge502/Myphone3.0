@@ -82,7 +82,7 @@ Device Options Section
 
 1.**Terminal**: Opens up a terminal window allowing to passthrough shell commands to your Android device <br/>
 
-**NOTE**: If you see the terminal not opening up , the your device isnt authorized yet. To authorize ,just reconnect your device with your phone unlocked and Accecpt The prompt saying "Accpet RSA keys / fingerprints".
+**NOTE**: If you see the terminal not opening up , the your device isnt authorized yet. To authorize ,just reconnect your device with your phone unlocked and accept The prompt saying "Accpet RSA keys / fingerprints".
 <br/><br/>
 
 2.**Power** : 
@@ -113,6 +113,7 @@ We now have a working GUI app of Myphone!
 Note:
 -----
 <br/>
+
 This is my first GUI app ever. And it goes without saying that there will be some bugs or issues here and there.
 Do not hesitate to report me of this. I will take action as soon as i figure out my stuff with it. I gotta say we've come a lot further than how we were in 
 the beginning. From going to an app that only show you your screen , to an app which is now easier to use using GUI. Of course the little things matter,
@@ -168,6 +169,7 @@ Credits:
 Creator: **SureRouge502** <br />
 Email (for bugs report as well): iyengara41@gmail.com <br />
 More of SureRouge502's work at: 
+
 [Github@SureRouge502]( https://github.com/SureRouge502)
 
 
