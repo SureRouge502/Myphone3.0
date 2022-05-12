@@ -6,17 +6,17 @@ Myphone3.0
 
 About:
 ------
-This program is created by SureRouge502 automating the process of using your Phone over wired or wireless connection in
-A linux machine. This program Uses ADB (Android Debug Bridge) and Fastboot in order to work..
-Works on All types of linux (Mostly tested on Debian And Kali coz i have those two only right now)
+This program is created by SureRouge502 automating the process of using your Phone over wired or wireless connection in<br/>
+A linux machine. This program Uses ADB (Android Debug Bridge) and Fastboot in order to work..<br/>
+Works on All types of linux (Mostly tested on Debian And Kali coz i have those two only right now)<br/>
 This is the MyPhone 3.<br/><br/>
 
 What's New?
 -----------
-1. Myphone 3 brings a whole new level of ease to use this app! No more numbers, no more inputs from direct user required.
-2. Myphone 3 is the newest and latest version of the MyPhone app. By bringing in **GUI** based user interface.
-3. Myphone 3 is the same as Myphone2.
-4. Few bug fixes from previous version
+1. Myphone 3 brings a whole new level of ease to use this app! No more numbers, no more inputs from direct user required.<br/>
+2. Myphone 3 is the newest and latest version of the MyPhone app. By bringing in **GUI** based user interface.<br/>
+3. Myphone 3 is the same as Myphone2.<br/>
+4. Few bug fixes from previous version<br/>
 <br/>
 **NOTE**: This is the first version of GUI app and is still in testing. Some features may not be available yet. So if you encounter any bugs , please report to SureRouge502 to help him fix them and imrpove the application.
 
@@ -31,9 +31,9 @@ Features:
 Myphone section
 ---------------
 <br/>
-1. Connect Wired : Allows user to connect to their android device when connected via USB.
-2. Connect Wireless : Allows user to connect to their android device wirelessly via WIFI. TO use this just enter the IP address of the Device you want to connect to and click "Connect Wireless".
-3. Connect Audio : Lets you connect audio streaming service //Sndcpy// to your connected device so you can stream audio. Works for both Wired and Wireless
+1. Connect Wired : Allows user to connect to their android device when connected via USB.<br/>
+2. Connect Wireless : Allows user to connect to their android device wirelessly via WIFI. TO use this just enter the IP address of the Device you want to<br/> connect to and click "Connect Wireless".<br/>
+3. Connect Audio : Lets you connect audio streaming service //Sndcpy// to your connected device so you can stream audio. Works for both Wired and Wireless<br/>
 <br/>
 **NOTE**: In order to stop the audio streaming , just tap "STOP" on audio forwarding notification on your android.
 <br/><br/>
@@ -43,13 +43,13 @@ Myphone section
 Media player section
 --------------------
 <br/>
-1. **Play/Pause** : Play/Pause running media.
-2. **Stop** : Stop any running media.
-3. **Previous media** : Go back to the previous media that was playing.
-4. **Rewind (2s)** : Rewind playing media by 2 seconds.
-5. **Forwarwd (2s)** : Forward media playing by 2 seconds.
-6. **Next media** : Switch to the next media to play.
-7. **Set volume** : Use the scroller to select the desired volume and use the "Set volume" button to set your device volume to it.
+1. **Play/Pause** : Play/Pause running media.<br/>
+2. **Stop** : Stop any running media.<br/>
+3. **Previous media** : Go back to the previous media that was playing.<br/>
+4. **Rewind (2s)** : Rewind playing media by 2 seconds.<br/>
+5. **Forwarwd (2s)** : Forward media playing by 2 seconds.<br/>
+6. **Next media** : Switch to the next media to play.<br/>
+7. **Set volume** : Use the scroller to select the desired volume and use the "Set volume" button to set your device volume to it.<br/>
 <br/>
 **NOTE**: This doesn't control the Media streaming volume...
 <br/><br/>
